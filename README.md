@@ -6,7 +6,7 @@
 -           2.Land a Junior Developer role.
 -           3.Build Nurse assistance app with wife's knowledge and experience as an Adminstrative RN.
 - 💞️ I’m looking to collaborate on any NuCamp projects.
-- 📫 How to reach me ===> email: DevTaylorRose@gmail.com | WP site: TaylorCRose.com
+- 📫 How to reach me ===> email: DevTaylorRose@gmail.com | WP site: https://www.taylorcrose.com/
 
 <!---
 TaylorCRose/TaylorCRose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
