@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaylorCRose
-- 👀 I’m an experience Wordpress Developer
+- 👀 I’m an experienced Wordpress Developer
 - 🌱 I’m currently working on frontend design and development of Wordpress websites, plugins and themes.
 - 🥅 Goals:
 -           1.Build out this profile
