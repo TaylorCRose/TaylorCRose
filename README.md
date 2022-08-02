@@ -5,7 +5,7 @@
 -           1.Build out this profile
             2.Use this profile to store code snippets for future use
             3.Use this profile to attract gigs                   
-- 💞️ I’m looking to collaborate on any Wordpress projects
+- 💞️ I’m looking to collaborate on Wordpress projects
 - 📫 How to reach me ===> email: DevTaylorRose@gmail.com | WP site: https://www.taylorcrose.com/
 
 <!---
